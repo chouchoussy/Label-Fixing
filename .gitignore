@@ -1,0 +1,44 @@
+# ------------------------- #
+#  Môi trường ảo (Virtual Environment)
+# ------------------------- #
+venv/
+.venv/
+env/
+.env/
+
+# ------------------------- #
+#  File tạm và cache của Python
+# ------------------------- #
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# ------------------------- #
+#  Dữ liệu và Kết quả (Output)
+# ------------------------- #
+# data/
+output/
+# *.csv
+# *.feather
+# *.log
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+# ------------------------- #
+#  File cấu hình của IDE và Editor
+# ------------------------- #
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# ------------------------- #
+#  File hệ điều hành (macOS / Windows)
+# ------------------------- #
+.DS_Store
+Thumbs.db
